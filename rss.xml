@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:10:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e95daaa-3aa2-4722-946b-8ac73d82872c.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e95daaa-3aa2-4722-946b-8ac73d82872c.jpg</link>
+            <guid isPermaLink="false">27d6dada-af97-42e9-930d-ac98eb9568ef</guid>
+            <pubDate>Sun, 31 Jul 2016 23:10:30 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[corporate events or Gwen starring as one of the main attractions at The Cotton Club, a jazz cabaret show in Brussels …]]></title>
-            <description><![CDATA[<article><h1>corporate events or Gwen starring as one of the main attractions at The Cotton Club, a jazz cabaret show in Brussels …</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df4d389b-552b-46a8-8f4b-1665edc76a28.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>corporate events or Gwen starring as one of the main attractions at The Cotton Club, a jazz cabaret show in Brussels …</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0a26239e06aaf12555df5f1cffece770/croprotate.jpg?cropheight=1097&cropwidth=1613&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fdf4d389b-552b-46a8-8f4b-1665edc76a28.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/df4d389b-552b-46a8-8f4b-1665edc76a28.jpg</link>
             <guid isPermaLink="false">9a1b30af-76d3-45f8-a561-b2593e205f1f</guid>
             <pubDate>Sun, 31 Jul 2016 23:08:53 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/mangoa_history/92513d59-77ab-4905-801e-b979bcb5013c/index.html</link>
             <guid isPermaLink="false">92513d59-77ab-4905-801e-b979bcb5013c</guid>
             <pubDate>Sun, 31 Jul 2016 23:04:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95c4ff0a-b257-4512-acce-0e30efd03c2a.jpg">]]></description>
-            <link>https://thegrid.ai/mangoa_history/f0f5ad98-893f-4460-b674-38b7b2c45022/index.html</link>
-            <guid isPermaLink="false">f0f5ad98-893f-4460-b674-38b7b2c45022</guid>
-            <pubDate>Sun, 31 Jul 2016 23:02:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
