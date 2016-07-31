@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:12:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/46ab3468-399e-4cec-8236-bb0280d20436.jpg">]]></description>
+            <link>https://thegrid.ai/mangoa_history/d393fab2-ed87-4412-8c33-b737294ce7e4/index.html</link>
+            <guid isPermaLink="false">d393fab2-ed87-4412-8c33-b737294ce7e4</guid>
+            <pubDate>Sun, 31 Jul 2016 23:12:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[festivals …]]></title>
-            <description><![CDATA[<article><h1>festivals …</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4385ceea-51ab-4572-bd50-1b888c47b1e2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>festivals …</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ba1cf53619f357427fb367075fb333c/croprotate.jpg?cropheight=2418&cropwidth=1244&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F4385ceea-51ab-4572-bd50-1b888c47b1e2.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4385ceea-51ab-4572-bd50-1b888c47b1e2.jpg</link>
             <guid isPermaLink="false">74eb55cd-c302-4a70-aa19-6673beb37165</guid>
             <pubDate>Sun, 31 Jul 2016 23:10:39 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6631fb78-db6b-45a0-b7a4-cd16b60141c7.jpg</link>
             <guid isPermaLink="false">e053e52b-14d3-4b08-88dd-716058372bd6</guid>
             <pubDate>Sun, 31 Jul 2016 23:06:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[to Barbados, the land of Gwen’s ancestors.]]></title>
-            <description><![CDATA[<article><h1>to Barbados, the land of Gwen’s ancestors.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e3477cc58949953a03bf65ea73e2b3e/croprotate.jpg?cropheight=782&cropwidth=1643&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa922ad0c-8232-4aa8-bcdd-9a066dd7c725.jpg&x=0&y=0"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a922ad0c-8232-4aa8-bcdd-9a066dd7c725.jpg</link>
-            <guid isPermaLink="false">be7ae6ba-df32-4ae7-b05a-8e81723f1b6c</guid>
-            <pubDate>Sun, 31 Jul 2016 23:06:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
