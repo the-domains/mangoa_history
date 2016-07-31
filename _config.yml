@@ -11,7 +11,7 @@ color:
     - '#F2E6B6'
     - '#412A22'
 layout_spectrum: 0.3384676135610789
-name: History
+name: MangoA
 navigation:
   - name: Home
     url: 'http://thegrid.ai/mangoa/'
@@ -28,4 +28,4 @@ navigation:
   - name: Soundcloud
     url: 'https://soundcloud.com/mangoa'
     type: external
-title: MangoA
+title: ''
