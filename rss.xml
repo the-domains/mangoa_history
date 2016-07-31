@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:04:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:06:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/mangoa_history/2cff6d6b-4cca-49cc-b272-cd8cc8d22db7/index.html</link>
             <guid isPermaLink="false">2cff6d6b-4cca-49cc-b272-cd8cc8d22db7</guid>
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Until we decided to move from downtown Brussels …]]></title>
+            <description><![CDATA[<article><h1>Until we decided to move from downtown Brussels …</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6631fb78-db6b-45a0-b7a4-cd16b60141c7.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6631fb78-db6b-45a0-b7a4-cd16b60141c7.jpg</link>
+            <guid isPermaLink="false">e053e52b-14d3-4b08-88dd-716058372bd6</guid>
+            <pubDate>Sun, 31 Jul 2016 23:06:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[to Barbados, the land of Gwen’s ancestors.]]></title>
+            <description><![CDATA[<article><h1>to Barbados, the land of Gwen’s ancestors.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0e3477cc58949953a03bf65ea73e2b3e/croprotate.jpg?cropheight=782&cropwidth=1643&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fa922ad0c-8232-4aa8-bcdd-9a066dd7c725.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/a922ad0c-8232-4aa8-bcdd-9a066dd7c725.jpg</link>
+            <guid isPermaLink="false">be7ae6ba-df32-4ae7-b05a-8e81723f1b6c</guid>
+            <pubDate>Sun, 31 Jul 2016 23:06:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Where we explored the scene by playing with lots of excellent musicians …]]></title>
@@ -61,20 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/54be9196-d05a-4bce-83f0-c97e39d03b99.jpg</link>
             <guid isPermaLink="false">0981f363-06b1-4d12-b0db-c67c4306b4c3</guid>
             <pubDate>Sun, 31 Jul 2016 22:57:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9dde259-9f19-45ba-b3f5-ed1edcfdce65.jpg">]]></description>
-            <link>https://thegrid.ai/mangoa_history/fd2e2c44-ebe9-4102-8c8a-52c0e8696415/index.html</link>
-            <guid isPermaLink="false">fd2e2c44-ebe9-4102-8c8a-52c0e8696415</guid>
-            <pubDate>Sun, 31 Jul 2016 22:56:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c03d63e-8b9e-4fed-8d5b-5b60e9d639b1.jpg">]]></description>
-            <link>https://thegrid.ai/mangoa_history/f5a18cf2-e490-4a14-9471-d45e56b10c4a/index.html</link>
-            <guid isPermaLink="false">f5a18cf2-e490-4a14-9471-d45e56b10c4a</guid>
-            <pubDate>Sun, 31 Jul 2016 22:56:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
