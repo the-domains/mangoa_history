@@ -25,4 +25,7 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/?fref=ts'
     type: external
+  - name: Soundcloud
+    url: 'https://soundcloud.com/mangoa'
+    type: external
 title: MangoA
