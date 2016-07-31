@@ -1,0 +1,14 @@
+layout_spectrum: 0.2104849403258413
+typography_spectrum: 0.1529660909436643
+color:
+  brandStrength: 0.8203593394719064
+  lightness: 0.10179342282935977
+  saturation: 0.5243218834511936
+  rhythmicContrast: 0.2877447600476444
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: mangoa_history
