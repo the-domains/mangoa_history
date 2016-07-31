@@ -1,16 +1,16 @@
-typography_spectrum: 0.1529660909436643
+typography_spectrum: 0.5083971938584
 color:
-  brandStrength: 0.8203593394719064
-  lightness: 0.10179342282935977
-  saturation: 0.5243218834511936
-  rhythmicContrast: 0.2877447600476444
+  brandStrength: 0.4006495417561382
+  lightness: 0.584698423044756
+  saturation: 0.0038364147767424583
+  rhythmicContrast: 0.21497563505545259
   brandColors:
-    - '#405952'
-    - '#9C9B7A'
-    - '#FFD393'
-    - '#FF974F'
-    - '#F54F29'
-layout_spectrum: 0.2104849403258413
+    - '#292929'
+    - '#5B7876'
+    - '#8F9E8B'
+    - '#F2E6B6'
+    - '#412A22'
+layout_spectrum: 0.3384676135610789
 name: History
 navigation:
   - name: Home
