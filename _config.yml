@@ -1,4 +1,3 @@
-layout_spectrum: 0.2104849403258413
 typography_spectrum: 0.1529660909436643
 color:
   brandStrength: 0.8203593394719064
@@ -11,5 +10,10 @@ color:
     - '#FFD393'
     - '#FF974F'
     - '#F54F29'
+layout_spectrum: 0.2104849403258413
 name: History
+navigation:
+  - name: Home
+    url: 'http://thegrid.ai/mangoa/'
+    type: external
 title: MangoA
