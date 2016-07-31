@@ -22,4 +22,7 @@ navigation:
   - name: Audio
     url: 'http://thegrid.ai/mangoa_audio/'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/Mangoa-197941767016658/?fref=ts'
+    type: external
 title: MangoA
