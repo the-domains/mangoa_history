@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:14:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mangoa_history/2cff6d6b-4cca-49cc-b272-cd8cc8d22db7/index.html</link>
             <guid isPermaLink="false">2cff6d6b-4cca-49cc-b272-cd8cc8d22db7</guid>
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[While I kept playing wherever I could …]]></title>
+            <description><![CDATA[<article><h1>While I kept playing wherever I could …</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8359652f-89d5-4a3a-a98c-8e51d11d1be1.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8359652f-89d5-4a3a-a98c-8e51d11d1be1.jpg</link>
+            <guid isPermaLink="false">251b110f-01ec-419d-9c1a-a6d4fd43dc4a</guid>
+            <pubDate>Sun, 31 Jul 2016 23:13:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[… Gwen worked on becoming an all-round performer.]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ed14e24-8e96-4c90-a427-73247cf4ed68.jpg</link>
             <guid isPermaLink="false">477b0a69-a429-4ba0-860a-83afa5f63876</guid>
             <pubDate>Sun, 31 Jul 2016 23:08:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[And recorded.]]></title>
-            <description><![CDATA[<article><h1>And recorded.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b946f010-1b1a-4c38-bee5-6075bcdf2ce6.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b946f010-1b1a-4c38-bee5-6075bcdf2ce6.jpg</link>
-            <guid isPermaLink="false">15a102f0-ffdf-42ba-a9a9-bbd8cb08d4af</guid>
-            <pubDate>Sun, 31 Jul 2016 23:07:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
