@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 02:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 02:41:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/mangoa_history/2cff6d6b-4cca-49cc-b272-cd8cc8d22db7/index.html</link>
             <guid isPermaLink="false">2cff6d6b-4cca-49cc-b272-cd8cc8d22db7</guid>
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[And this is what we continue to do until this day.]]></title>
-            <description><![CDATA[<article><h1>And this is what we continue to do until this day.</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea6bf9e-b5b4-450a-90a2-1e5fc205ba5f.jpg"></article>]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ea6bf9e-b5b4-450a-90a2-1e5fc205ba5f.jpg</link>
-            <guid isPermaLink="false">297d1037-2dec-4b64-a843-d5fc685c3010</guid>
-            <pubDate>Sun, 31 Jul 2016 02:32:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
