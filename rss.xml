@@ -4,7 +4,7 @@
         <description><![CDATA[MangoA]]></description>
         <link>https://thegrid.ai/mangoa_history/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jul 2016 23:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jul 2016 23:16:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mangoa_history/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mangoa_history/2cff6d6b-4cca-49cc-b272-cd8cc8d22db7/index.html</link>
             <guid isPermaLink="false">2cff6d6b-4cca-49cc-b272-cd8cc8d22db7</guid>
             <pubDate>Sun, 31 Jul 2016 02:32:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[… but only got serious about music when I discovered the guitar.]]></title>
+            <description><![CDATA[<article><h1>… but only got serious about music when I discovered the guitar.</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/deaa3463b3446028148f3671e30e2313/croprotate.jpg?cropheight=1484&cropwidth=999&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F8c850dfc-17e6-4a9a-ad48-609f9cab78e4.jpg&x=0&y=0"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c850dfc-17e6-4a9a-ad48-609f9cab78e4.jpg</link>
+            <guid isPermaLink="false">4e62c200-609d-412d-950f-5b302ad69a95</guid>
+            <pubDate>Sun, 31 Jul 2016 23:16:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[In the meantime Gwen and I recorded demos to shop around.]]></title>
@@ -68,13 +75,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4385ceea-51ab-4572-bd50-1b888c47b1e2.jpg</link>
             <guid isPermaLink="false">74eb55cd-c302-4a70-aa19-6673beb37165</guid>
             <pubDate>Sun, 31 Jul 2016 23:10:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59341001-ed1d-46af-bdd2-fa9927c87bbb.jpg">]]></description>
-            <link>https://thegrid.ai/mangoa_history/b60973ca-a42d-4bdd-876b-a29a16393bc8/index.html</link>
-            <guid isPermaLink="false">b60973ca-a42d-4bdd-876b-a29a16393bc8</guid>
-            <pubDate>Sun, 31 Jul 2016 23:10:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
