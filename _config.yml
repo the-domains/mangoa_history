@@ -1,16 +1,16 @@
-typography_spectrum: 0.5083971938584
+typography_spectrum: 0.6163441229145974
 color:
-  brandStrength: 0.4006495417561382
-  lightness: 0.584698423044756
-  saturation: 0.0038364147767424583
-  rhythmicContrast: 0.21497563505545259
+  brandStrength: 0.6066915856208652
+  lightness: 0.7803958544973284
+  saturation: 0.697906905785203
+  rhythmicContrast: 0.4687857888638973
   brandColors:
-    - '#292929'
-    - '#5B7876'
-    - '#8F9E8B'
-    - '#F2E6B6'
-    - '#412A22'
-layout_spectrum: 0.3384676135610789
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
+layout_spectrum: 0.44552347296848893
 name: MangoA
 navigation:
   - name: Home
