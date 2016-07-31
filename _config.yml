@@ -19,4 +19,7 @@ navigation:
   - name: Video
     url: 'http://thegrid.ai/mangoa_video/'
     type: external
+  - name: Audio
+    url: 'http://thegrid.ai/mangoa_audio/'
+    type: external
 title: MangoA
