@@ -16,9 +16,6 @@ navigation:
   - name: Home
     url: 'http://thegrid.ai/mangoa/'
     type: external
-  - name: Video
-    url: 'http://thegrid.ai/mangoa_video/'
-    type: external
   - name: Audio
     url: 'http://thegrid.ai/mangoa_audio/'
     type: external
