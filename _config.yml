@@ -16,13 +16,13 @@ navigation:
   - name: Home
     url: 'http://thegrid.ai/mangoa/'
     type: external
+  - name: Video
+    url: 'https://www.youtube.com/user/mangoaoa/featured'
+    type: external
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/?fref=ts'
     type: external
   - name: Audio
     url: 'https://soundcloud.com/mangoa'
-    type: external
-  - name: Video
-    url: 'https://www.youtube.com/user/mangoaoa/featured'
     type: external
 title: ''
