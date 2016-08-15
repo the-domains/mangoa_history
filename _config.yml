@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.44552347296848893
 name: MangoA
 navigation:
-  - name: Home
-    url: 'http://thegrid.ai/mangoa/'
-    type: external
   - name: Video
     url: 'https://www.youtube.com/user/mangoaoa/featured'
     type: external
