@@ -22,4 +22,7 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/?fref=ts'
     type: external
+  - name: Home
+    url: 'http://mangoa.world'
+    type: external
 title: ''
