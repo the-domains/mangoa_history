@@ -25,4 +25,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/Mangoa-197941767016658/?fref=ts'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4a36386-27e1-4024-8a14-9d9f842efef6.ico
 title: ''
