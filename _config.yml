@@ -16,7 +16,4 @@ navigation:
   - name: Home
     url: 'http://mangoa.world'
     type: external
-  - name: Upcoming Shows
-    url: 'http://thegrid.ai/mangoa_shows/'
-    type: external
 title: ''
