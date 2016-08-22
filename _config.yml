@@ -16,9 +16,6 @@ navigation:
   - name: Home
     url: 'http://mangoa.world'
     type: external
-  - name: Video
-    url: 'https://www.youtube.com/user/mangoaoa/featured'
-    type: external
   - name: Audio
     url: 'https://soundcloud.com/mangoa'
     type: external
