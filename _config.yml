@@ -1,16 +1,16 @@
-typography_spectrum: 0.6163441229145974
+layout_spectrum: 0.9146681646816432
+typography_spectrum: 0.46787876682356
 color:
-  brandStrength: 0.6066915856208652
-  lightness: 0.7803958544973284
-  saturation: 0.697906905785203
-  rhythmicContrast: 0.4687857888638973
+  brandStrength: 0.8574114439543337
+  lightness: 0.17000073031522334
+  saturation: 0.30288492562249303
+  rhythmicContrast: 0.8235962016042322
   brandColors:
-    - '#B9121B'
-    - '#4C1B1B'
-    - '#F6E497'
-    - '#FCFAE1'
-    - '#BD8D46'
-layout_spectrum: 0.44552347296848893
+    - '#DC3522'
+    - '#D9CB9E'
+    - '#374140'
+    - '#2A2C2B'
+    - '#1E1E20'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e0f1072-f864-4dae-8246-54454d7ea236.jpg
 name: MangoA . history
