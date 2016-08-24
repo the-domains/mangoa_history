@@ -11,9 +11,13 @@ color:
     - '#FCFAE1'
     - '#BD8D46'
 layout_spectrum: 0.44552347296848893
-name: MangoA
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e0f1072-f864-4dae-8246-54454d7ea236.jpg
+name: MangoA . history
 navigation:
   - name: Home
     url: 'http://mangoa.world'
     type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/83b1e3b8-ed5f-43d3-b12c-8c7a4b6622f5.ico
 title: ''
